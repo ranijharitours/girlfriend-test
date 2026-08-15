@@ -232,7 +232,7 @@ export default function Home() {
           </h1>
 
           <p className="mt-5 text-xl text-pink-100/70">
-            The Ultimate Tulu Love Test 😂
+            The Ultimate Love Test 😂
           </p>
 
           <div className="mt-8 rounded-[2rem] border border-white/20 bg-white/10 backdrop-blur-2xl p-8 shadow-2xl">
@@ -404,7 +404,7 @@ export default function Home() {
           </p>
 
           <h1 className="mt-3 text-3xl md:text-5xl font-black">
-            TULU LOVE TEST 😂
+            LOVE TEST 😂
           </h1>
         </div>
 
